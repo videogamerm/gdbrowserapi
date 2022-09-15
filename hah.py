@@ -1,9 +1,6 @@
 import requests
 import pandas as pd
 
-import json
-import csv
-
 
 id = input('Whats The id ')
 page = input(" page number ")
